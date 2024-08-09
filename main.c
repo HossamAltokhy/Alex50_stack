@@ -18,6 +18,7 @@ int main()
     stackPush(3);
     stackPush(4);
     stackPush(5);
+    stackPush(6);
 
 
     while(pTop!=NULL)
