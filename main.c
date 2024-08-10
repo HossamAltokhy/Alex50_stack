@@ -23,7 +23,7 @@ int main()
 
     while(pTop!=NULL)
     //printf("Data = %d\n", stackPeek());
-    {printf("Data = %d\n", stackPop());}
+    {printf("Data = %d.\n", stackPop());}
 
     stackPop();
 
